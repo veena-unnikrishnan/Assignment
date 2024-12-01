@@ -63,12 +63,14 @@ o Provide at least 3-5 examples of:
 symptoms, high ratings, etc.).
 
 o Include visualizations showcasing your analysis and results.
+
 2. Documentation:
 
 o A brief report (1-2 pages) summarizing your approach, methods used,
 challenges faced, and insights derived.
 o Explain the strengths and limitations of your recommendation system.
 o Recorded demo or screenshots of the working model
+
 3. Jupyter Notebook:
 
 o Include the following:

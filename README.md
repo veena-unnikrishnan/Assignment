@@ -25,6 +25,7 @@ Dataset examples:
 
 • Drugs.com Reviews Dataset (available on Kaggle or similar platforms).
 • A synthetic dataset with columns such as:
+
 o Patient ID
 o Symptoms/Conditions
 o Drug Name

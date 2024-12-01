@@ -15,6 +15,24 @@ identify appropriate drugs based on their symptoms or past medical records. The 
 should leverage a combination of collaborative filtering, content-based filtering, and
 basic NLP techniques to analyze input data and provide relevant recommendations.
 
+# Dataset
+
+Use datasets like the Drugs.com Dataset, which contains information about drugs, their
+usage, patient reviews, conditions treated, and ratings. You may also simulate or
+synthesize additional patient symptom data if needed.
+
+Dataset examples:
+
+• Drugs.com Reviews Dataset (available on Kaggle or similar platforms).
+• A synthetic dataset with columns such as:
+o Patient ID
+o Symptoms/Conditions
+o Drug Name
+o Drug Class
+o ERectiveness Rating
+o Reviews
+o Side ERects
+
 # Task Requirements
 
 1. Data Preprocessing:
